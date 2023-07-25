@@ -1,4 +1,4 @@
-App Link: 
+App Link: https://64bf192b5d9ee10008aec760--jocular-sorbet-f214fd.netlify.app/
 API: https://animechan.xyz/
 
 # Getting Started with Create React App
