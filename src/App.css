@@ -4,8 +4,12 @@
   --dark: #131a26;
   --light: #eeeeee;
   --grey: #888888;
-  --font: "Fira Sans", sans-serif;
+  --font: "Merriweather";
   --font-quote: "Fira Code", monospace;
+}
+
+h1 {
+  font-family: "Arial";
 }
 
 * {
@@ -67,6 +71,7 @@ blockquote {
   position: absolute;
   right: 0;
   bottom: 0;
+  font-style: italic;
 }
 
 button {

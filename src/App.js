@@ -31,6 +31,7 @@ function App() {
 
   return (
     <div className="quote-generator">
+      <h1>Anime Quote Generator</h1>
       <Quote quote={quote} />
       <button onClick={getNewQuote}>New Quote</button>
     </div>
